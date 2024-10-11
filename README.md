@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 The game I'm playing now ...APEX、Genshin
 - 📚 Here's what I'm learning right now...AI,python,robot
 - ⚡ Fun fact: ...I'm currently exploring ways to do something interesting with AI
-- 📖 My article ...https://note.com/nakamura8793/n/n35f5ebbc7711
+- 📖 My article ... https://note.com/nakamura8793/
 
 <div align="left">
   <a href="https://github.com/kairi1091">
