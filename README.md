@@ -1,4 +1,4 @@
-## Hi there 👋
+## こんにちは 👋
 
 <!--
 **kairi1091/kairi1091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning ...Vocational college
+- 🌱  ...Vocational college
 - 👯 The game I'm playing now ...APEX、Genshin
 - 📚 Here's what I'm learning right now...AI,python,robot
 - ⚡ Fun fact: ...I'm currently exploring ways to do something interesting with AI
